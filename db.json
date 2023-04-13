@@ -7,54 +7,6 @@
    "location": "San Francisco"
 },
 {
-   "firstName": "Steve",
-   "lastName": "Morgan",
-   "Employee_ID": "21002",
-   "location": "San Francisco"
-},
-{
-   "firstName": "Oliver",
-   "lastName": "Reynolds",
-   "Employee_ID": "21003",
-   "location": "San Francisco"
-},
-{
-   "firstName": "Maximilian",
-   "lastName": "Schneider",
-   "Employee_ID": "21004",
-   "location": "Chicago"
-},
-{
-   "firstName": "Teresa",
-   "lastName": "Serrano",
-   "Employee_ID": "21005",
-   "location": "New York"
-},
-{
-   "firstName": "Maria",
-   "lastName": "Cardoza",
-   "Employee_ID": "21006",
-   "location": "San Francisco"
-},
-{
-   "firstName": "Jacqueline",
-   "lastName": "Desjardins",
-   "Employee_ID": "21007",
-   "location": "San Francisco"
-},
-{
-   "firstName": "Beth",
-   "lastName": "Liu",
-   "Employee_ID": "21008",
-   "location": "San Francisco"
-},
-{
-   "firstName": "Pedro",
-   "lastName": "Santiago",
-   "Employee_ID": "21009",
-   "location": "New York"
-},
-{
    "firstName": "Norman",
    "lastName": "Chan",
    "Employee_ID": "21012",

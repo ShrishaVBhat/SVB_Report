@@ -7,6 +7,24 @@
    "location": "San Francisco"
 },
 {
+   "firstName": "Steve",
+   "lastName": "Morgan",
+   "Employee_ID": "21002",
+   "location": "San Francisco"
+},
+{
+   "firstName": "Oliver",
+   "lastName": "Reynolds",
+   "Employee_ID": "21003",
+   "location": "San Francisco"
+},
+{
+   "firstName": "Maximilian",
+   "lastName": "Schneider",
+   "Employee_ID": "21004",
+   "location": "Chicago"
+},
+{
    "firstName": "Lillian",
    "lastName": "Chu",
    "Employee_ID": "21010",
